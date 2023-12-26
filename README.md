@@ -4,7 +4,6 @@ Welcome to our Anime Recommendation System project!
 
 This repository contains notebooks, scripts, and data related to our anime recommendation system. The goal is to develop an efficient recommendation system to suggest anime titles to users based on their preferences and behavior.
 # Table of Contents
-
 ## [Overview](#overview) 🌟
 Introduction to the project, its goals, and components.
 
@@ -39,51 +38,46 @@ Explanation and implementation of user-based recommendation approaches, analyzin
 ## [Model Training: Content-Based Filtering (CBF) and Recommendations](#content-based-filtering) 🔍
 Details about employing Content-Based Filtering for model training based on anime features and generating recommendations.
 
-## Overview
 
+
+---------------
+
+## Overview 🌟
 This repository consists of two main notebooks:
 
-- **[Notebook 1: Exploratory Data Analysis (EDA) and Dataset Overview](link_to_notebook1)**:
+- **[Notebook 1: Exploratory Data Analysis (EDA) and Dataset Overview](link_to_notebook1)** 📊:
   This notebook focuses on comprehensive data exploration and analysis of the anime datasets. Through visualizations and insights, it delves into the distribution of anime titles, genres, user ratings, and other pertinent features.
 
-- **[Notebook 2: Model Training](link_to_notebook2)**:
+- **[Notebook 2: Model Training](link_to_notebook2)** 🤖:
   Notebook 2 deals with training the anime recommendation model. It involves implementing various machine learning algorithms using TensorFlow, such as collaborative filtering, content-based filtering, or hybrid models.
 
-## Techniques Used
-
+## Techniques Used 🔧
 The anime recommendation system leverages the following techniques:
 
-- **Exploratory Data Analysis (EDA)**: Understanding the distribution, relationships, and patterns within the anime datasets using Pandas, Matplotlib, Seaborn, and Plotly for visualization.
-- **Machine Learning algorithms**: Utilizing TensorFlow framework for recommendation system development, employing techniques such as collaborative filtering, content-based filtering, or hybrid models.
-- **WordCloud**: Employed for visualizing text data within anime titles, synopsis, and other textual information, providing a graphical representation of word frequency.
-- **Language Detection (langdetect)**: Utilizing langdetect library to detect the primary language in 'Other name' fields, aiding in language-specific analysis or processing.
+- **Exploratory Data Analysis** (EDA) 📊: Understanding the distribution, relationships, and patterns within the anime datasets using Pandas, Matplotlib, Seaborn, and Plotly for visualization.
+- **Machine Learning algorithms** 🤖: Utilizing TensorFlow framework for recommendation system development, employing techniques such as collaborative filtering, content-based filtering, or hybrid models.
+- **WordCloud** ☁️: Employed for visualizing text data within anime titles, synopsis, and other textual information, providing a graphical representation of word frequency.
+- **Language Detection (langdetect)** 🌐: Utilizing langdetect library to detect the primary language in 'Other name' fields, aiding in language-specific analysis or processing.
 
-### TensorFlow
-
+## TensorFlow 🤖
 [TensorFlow](https://www.tensorflow.org/) is an open-source machine learning framework developed by Google. It's widely used for building and training machine learning models, particularly in the domain of neural networks. For our anime recommendation system, TensorFlow facilitates the creation and training of recommendation models, allowing for the development of advanced algorithms like collaborative filtering or deep learning-based models.
 
-### WordCloud
-
+## WordCloud ☁️
 [WordCloud](https://github.com/amueller/word_cloud) is a data visualization technique used to represent text data, emphasizing the frequency of words through their size in a visual cloud. In our project, WordCloud was employed to visually showcase word frequency within anime titles, synopsis, or other textual information from the dataset, aiding in the identification of prominent terms or phrases.
 
-### langdetect
-
+## langdetect 🌐
 [Langdetect](https://pypi.org/project/langdetect/) is a language detection library in Python that identifies the primary language of a given text. In our project, langdetect was utilized to detect and classify the primary language from the 'Other name' fields in the anime dataset. This information aids in language-specific analysis, potentially enabling language-based recommendations or insights for multilingual users.
 
-## Instructions
-
-- The notebooks and scripts in this repository provide detailed steps and code to analyze the anime dataset and train the recommendation system.
-- Before running the notebooks, ensure all necessary dependencies are installed. Refer to the `requirements.txt` file for the required libraries and their versions.
-- Detailed explanations, visualizations, and code implementations are provided in the notebooks.
-
+## Instructions 📝
+The notebooks and scripts in this repository provide detailed steps and code to analyze the anime dataset and train the recommendation system.
+Before running the notebooks, ensure all necessary dependencies are installed. Refer to the requirements.txt file for the required libraries and their versions.
+Detailed explanations, visualizations, and code implementations are provided in the notebooks.
 Feel free to explore the notebooks and scripts for a detailed understanding of our anime recommendation system.
 
-## Dataset Source
+## Dataset Source 📂
+The datasets used in this project have been obtained from from [Kaggle](https://www.kaggle.com/datasets/dbdmobile/myanimelist-dataset).
 
-The datasets used in this project have been obtained from [Kaggle](https://www.kaggle.com/datasets/dbdmobile/myanimelist-dataset).
-
-## Exploratory Data Analysis (EDA) Graphs
-
+## Exploratory Data Analysis (EDA) Graphs 📊
 The EDA in Notebook 1 generated various insightful graphs:
 
 - Count of Anime Titles by Type
