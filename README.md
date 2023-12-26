@@ -14,41 +14,30 @@ This repository contains notebooks, scripts, and data related to our anime recom
 # Table of Contents 📜
 ## [Overview](#overview) 🌟
 Introduction to the project, its goals, and components.
-
 ## [Techniques Used](#techniques-used) 🔧
 Explanation of the methodologies, tools, and libraries utilized in the project.
 - [Exploratory Data Analysis (EDA)](#eda) 📊
 - [Machine Learning algorithms with TensorFlow](#tensorflow) 🤖
 - [WordCloud visualization](#wordcloud) ☁️
 - [Language Detection using langdetect](#langdetect) 🌐
-
 ## [Instructions](#instructions) 📝
 Guidance on running notebooks and scripts, checking dependencies, and exploring the project components.
-
 ## [Dataset Source](#dataset-source) 📂
 Information about the origin of the datasets used in the project (Kaggle).
-
 ## [Exploratory Data Analysis (EDA) Graphs](#eda-graphs) 📈
 Detailed list and description of the graphs generated in Notebook 1, showcasing various insights extracted from the anime dataset.
-
 ## [Model Training with Deep Learning](#deep-learning) 🧠
 Explanation of the techniques employed in training the recommendation models, including 3D visualization of ratings graphs and collaborative filtering.
-
 ## [Bokeh Plotting for Model Metrics](#bokeh-plotting) 📊
 Usage of Bokeh for interactive visualization of model metrics (loss, MSE, MAE) against epochs during training.
-
 ## [Item-Based Recommendation Section](#item-recommendation) 📚
 Description and implementation of item-based recommendation techniques for suggesting similar anime titles.
-
 ## [User-Based Recommendation](#user-recommendation) 🤝
 Explanation and implementation of user-based recommendation approaches, analyzing user behavior to suggest relevant anime titles.
-
 ## [Model Training: Content-Based Filtering (CBF) and Recommendations](#content-based-filtering) 🔍
 Details about employing Content-Based Filtering for model training based on anime features and generating recommendations.
-
 ## [Challenges](#challenges) 🤔
 Challenges faced during the project.
-
 ## [Learning Outcome](#learning-outcome) 🎓
 Key learning outcomes from the project.
 
