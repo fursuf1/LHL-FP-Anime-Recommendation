@@ -5,9 +5,6 @@ Welcome to our Anime Recommendation System project!
 This repository contains notebooks, scripts, and data related to our anime recommendation system. The goal is to develop an efficient recommendation system to suggest anime titles to users based on their preferences and behavior.
 # Table of Contents
 
-<span style="color:#1589F0">Overview</span> 🌟
-This repository consists of two main notebooks:
-
 ## [Overview](#overview) 🌟
 Introduction to the project, its goals, and components.
 
