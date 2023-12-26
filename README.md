@@ -4,7 +4,6 @@ Welcome to our Anime Recommendation System project!
 
 This repository contains notebooks, scripts, and data related to our anime recommendation system. The goal is to develop an efficient recommendation system to suggest anime titles to users based on their preferences and behavior.
 # Table of Contents
-
 ## [Overview](#overview) 🌟
 Introduction to the project, its goals, and components.
 
@@ -39,9 +38,11 @@ Explanation and implementation of user-based recommendation approaches, analyzin
 ## [Model Training: Content-Based Filtering (CBF) and Recommendations](#content-based-filtering) 🔍
 Details about employing Content-Based Filtering for model training based on anime features and generating recommendations.
 
+## [Challenges](#challenges) 🤔
+Challenges faced during the project.
 
-
----------------
+## [Learning Outcome](#learning-outcome) 🎓
+Key learning outcomes from the project.
 
 ## Overview 🌟
 This repository consists of two main notebooks:
@@ -130,4 +131,12 @@ User-Based Recommendation: The user-based recommendation technique analyzes user
 ### Model Training: Content-Based Filtering (CBF) and Recommendations 🔍
 Content-Based Filtering: Content-Based Filtering (CBF) was employed for model training, focusing on anime features such as genre, type, duration, and more. This technique generates recommendations based on the content similarities between anime titles and user preferences.
 
+## Challenges 🤔
+- Managing a very large dataset, which posed challenges in handling and processing due to its size and complexity.
+- Training and testing the models required extensive time due to the dataset's scale, often necessitating multiple attempts to optimize hyperparameters and achieve the right epochs.
+- Addressing computational limitations and resource constraints when dealing with extensive training tasks and testing iterations.
 
+## Learning Outcome 🎓
+- Acquired proficiency in data preprocessing techniques for diverse datasets.
+- Enhanced understanding of machine learning algorithms, especially in the context of recommendation systems.
+- Improved skills in data visualization and interpretation, particularly within the anime domain.
