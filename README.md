@@ -1,9 +1,17 @@
-# Anime Recommendation System
+# Anime Recommendation System 🎬
+
+[![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue?style=for-the-badge)](https://www.python.org/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-orange?style=for-the-badge)](https://github.com/fursuf1/Credit-Card-Fraud-Detection)
+[![Visual Studio Code](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-green?style=for-the-badge)](https://code.visualstudio.com/)
+[![git](https://badgen.net/badge/icon/git?icon=git&label)](https://git-scm.com)
+[![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
+[![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
+[![Windows](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/)
 
 Welcome to our Anime Recommendation System project!
 
 This repository contains notebooks, scripts, and data related to our anime recommendation system. The goal is to develop an efficient recommendation system to suggest anime titles to users based on their preferences and behavior.
-# Table of Contents
+# Table of Contents 📜
 ## [Overview](#overview) 🌟
 Introduction to the project, its goals, and components.
 
