@@ -1,7 +1,7 @@
 # Anime Recommendation System 🎬
 
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue?style=for-the-badge)](https://www.python.org/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-orange?style=for-the-badge)](https://github.com/fursuf1/Credit-Card-Fraud-Detection)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-orange?style=for-the-badge)](https://github.com/fursuf1/LHL-FP-Anime-Recommendation)
 [![Visual Studio Code](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-green?style=for-the-badge)](https://code.visualstudio.com/)
 [![git](https://badgen.net/badge/icon/git?icon=git&label)](https://git-scm.com)
 [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
