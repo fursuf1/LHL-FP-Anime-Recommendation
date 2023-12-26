@@ -7,6 +7,8 @@
 [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
 [![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![Windows](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FFA500)](https://www.tensorflow.org/)
+
 
 Welcome to our Anime Recommendation System project!
 
