@@ -115,29 +115,24 @@ The EDA in Notebook 1 generated various insightful graphs:
 - Watching Behavior of X
 - Top 10 Anime Titles Watched by Most Users
 
-## Model Training with Deep Learning
+## Model Training with Deep Learning 🧠
 
-### 3D Visualization of Ratings Graphs
-
+### 3D Visualization of Ratings Graphs 📊
 The 3D Visualization of Ratings Graphs was employed to understand the interaction between user ratings and anime features in a multidimensional space. It helps in visualizing the relationship and patterns within the data for better model comprehension.
 
-### Model Training (Collaborative Filtering)
+### Model Training (Collaborative Filtering) 🤝
+Collaborative Filtering: The collaborative filtering technique was implemented for model training. It involves predicting user preferences for anime titles based on similar users' preferences. This method explores user-item interactions and recommends anime based on user behavior.
 
-The collaborative filtering technique was implemented for model training. It involves predicting user preferences for anime titles based on similar users' preferences. This method explores user-item interactions and recommends anime based on user behavior.
+### Bokeh Plotting for Model Metrics 📊
+Bokeh Plotting: Bokeh Plotting was utilized for visualizing model loss, Mean Squared Error (MSE), and Mean Absolute Error (MAE) against epochs in inverted bar graphs. This plotting technique offers interactive visualizations, enabling a detailed view of model performance throughout the training process.
 
-### Bokeh Plotting for Model Metrics
+### Item-Based Recommendation Section 📚
+Item-Based Recommendation: The item-based recommendation approach was used to suggest anime titles based on similarities between items. It identifies similar anime titles and recommends them to users who have interacted with comparable items in the past.
 
-Bokeh Plotting was utilized for visualizing model loss, Mean Squared Error (MSE), and Mean Absolute Error (MAE) against epochs in inverted bar graphs. This plotting technique offers interactive visualizations, enabling a detailed view of model performance throughout the training process.
+### User-Based Recommendation 🤖
+User-Based Recommendation: The user-based recommendation technique analyzes user behavior and preferences to recommend anime titles to similar users. It identifies users with similar tastes and suggests anime based on their interactions and preferences.
 
-### Item-Based Recommendation Section
+### Model Training: Content-Based Filtering (CBF) and Recommendations 🔍
+Content-Based Filtering: Content-Based Filtering (CBF) was employed for model training, focusing on anime features such as genre, type, duration, and more. This technique generates recommendations based on the content similarities between anime titles and user preferences.
 
-The item-based recommendation approach was used to suggest anime titles based on similarities between items. It identifies similar anime titles and recommends them to users who have interacted with comparable items in the past.
-
-### User-Based Recommendation
-
-The user-based recommendation technique analyzes user behavior and preferences to recommend anime titles to similar users. It identifies users with similar tastes and suggests anime based on their interactions and preferences.
-
-### Model Training: Content-Based Filtering (CBF) and Recommendations
-
-Content-Based Filtering (CBF) was employed for model training, focusing on anime features such as genre, type, duration, and more. This technique generates recommendations based on the content similarities between anime titles and user preferences.
 
